@@ -166,12 +166,42 @@ nav{
     flex-basis: 50%;
     
 }
+.work-right-col{
+    flex-basis: 30%;
 
- 
+}
+.work-left-col h1{
+    font-size: 63px;
+    color: #222f3e;
+    line-height: 1.4em;
+    font-family: 'poppins',sans-serif;
+    display: flexbox;
+} 
+.work-left-col p{
+    font-size: 20px;
+    color: grey;
+    margin: 30px 0px 40px 0px;
+}
 
-
-
-
+ .work-left-col a{ 
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    border-radius: 8px;
+    background: #01a3a4;
+}
+footer{
+    padding: 20px 100px;
+    background: #01a3a4 ;
+    color: white;
+    font-size: 20px;
+    font-family: 'Signika', sans-serif ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
 
 
 
